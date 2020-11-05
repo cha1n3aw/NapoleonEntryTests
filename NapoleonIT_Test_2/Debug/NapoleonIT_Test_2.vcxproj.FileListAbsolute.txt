@@ -1,2 +1,0 @@
-C:\cpp\GIT_REPOS\NapoleonIT\NapoleonIT_Test_2\Debug\NapoleonIT_Test_2.exe
-C:\cpp\GIT_REPOS\NapoleonIT\NapoleonIT_Test_2\Debug\NapoleonIT_Test_2.pdb
